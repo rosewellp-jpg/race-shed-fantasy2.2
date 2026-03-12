@@ -10,7 +10,7 @@
     "sync:data": "node scripts/sync-data.mjs"
   },
   "dependencies": {
-    "next": "16.0.7",
+    "next": "15.2.8",
     "react": "19.0.0",
     "react-dom": "19.0.0"
   },
